@@ -1,0 +1,169 @@
+.container-navbar {
+    font-family:'Playfair Display', serif;
+    margin: auto;
+    width: 40%;
+    margin-left: 500px;
+}
+
+.text {
+    font-size: 22px;
+}
+
+.background-img {
+    background-image: url('https://cdn.vox-cdn.com/thumbor/Q7_74k0zUmVCID7lnfaxKMuSaVU=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/65027193/shutterstock_788608396.0.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container {
+    font-family: 'Work Sans', sans-serif;
+    padding: 10px;
+    margin-top: 15px;
+    border: 1px;
+    border-style:solid;
+    border-color: black;
+    width:800px;
+}
+
+.textarea {
+    width: 500px;
+    text-align: center;
+    
+}
+
+.follow {
+    text-align: center;
+    margin-left: 0px;
+}
+
+#following {
+    position:relative;
+    text-align:center;
+}
+
+.PageNavigator {
+    position: relative;
+    margin-right: 200px;
+}
+
+.page-link {
+    color: black;
+}
+
+.background {
+    padding:10px;
+}
+
+.counting {
+    float: right;
+    margin-right: 730px;
+}
+
+.like, .profile_button, .delete-post {
+   width: 60px;
+   height: 30px;
+   font-size: 10px;
+}
+
+.profile_button {
+    margin-left: -65px;
+}
+
+.all_likes {
+    margin-left: 80px;
+    margin-top: -52px;
+}
+
+#counter {
+    margin-left: 30px;
+    margin-top: -23px;
+}
+
+.new_post {
+    width: 530px;
+    height: 180px;
+}
+
+.dropbtn {
+    background-color: lightyellow;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+.dropdown {
+    display: inline-block;
+    position: relative;
+    margin-left: 400px;
+    margin-top: -100px;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover {
+    background-color:lightyellow;
+}
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+  
+.dropdown:hover .dropbtn {
+    background-color: black; 
+    color:white;
+}
+
+img.avatar {
+    object-fit: cover;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-left:610px;
+    margin-top: -25px;
+}
+
+.file_upload {
+    margin-left: 520px;
+}
+
+.delete-photo-btn {
+    margin-bottom: -410px;
+    margin-left: 650px;
+    font-size: 10px;
+
+}
+
+.index-pic {
+    object-fit: cover;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-left:340px;
+    margin-bottom: -140px;
+}
+
+.background-photo {
+    background-attachment: fixed;
+    height: 72px;
+    width: 2000px;
+}
+
+
+
+
