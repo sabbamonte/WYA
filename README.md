@@ -1,4 +1,4 @@
-# WYA
+# WYA (Where You At)
 
 My take on a traditional social network web application. 
 Created with Python, Django, Javascript, HTML and CSS.
