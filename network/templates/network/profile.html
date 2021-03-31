@@ -93,7 +93,9 @@
                 {% endif %}
                 </div>
             </div>
+            {% if same_user %}
             <button class="btn btn-dark delete-post" name="delete_post" id="{{post.id}}" type="submit"> Delete </button>
+            {% endif %}
         </div>
         {% empty %}
             <h2 style="font-family: 'Crimson Text', serif; text-align: center;">no posts yet</h2>
